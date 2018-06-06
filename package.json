@@ -1,0 +1,14 @@
+{
+  "name": "Calls",
+  "version": "1.0.0",
+  "description": "Calls Exercice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rui Tavares",
+  "license": "ISC",
+  "bin": {
+    "calls": "./calls.js"
+  }
+}
